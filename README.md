@@ -69,13 +69,3 @@ processed/                        Clean and aggregated outputs
 
 ---
 
-## Why This Project Matters
-
-This pipeline shows the core skills of a data engineer:
-
-* moving raw data through well-defined processing steps
-* cleaning and validating data at scale
-* building meaningful, business-ready datasets
-* automating everything through an orchestrated workflow
-
-It reflects patterns commonly used in real industry pipelines and modern analytics teams.
