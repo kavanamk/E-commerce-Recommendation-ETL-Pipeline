@@ -13,6 +13,7 @@ The pipeline follows a clear structure used by modern data engineering teams:
 ---
 
 ## How the Pipeline Works
+<img width="1000" height="1892" alt="image" src="https://github.com/user-attachments/assets/34a1dee5-a491-4cfc-8f85-e9dc8894860f" />
 
 ```
 Raw JSON Reviews
